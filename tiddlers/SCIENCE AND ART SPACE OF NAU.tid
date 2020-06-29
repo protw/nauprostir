@@ -1,10 +1,11 @@
 created: 20200430205738831
 icon: $:/boa/logo
-modified: 20200629073755070
+modified: 20200629103311471
 revision: 0
 title: SCIENCE AND ART SPACE OF NAU
 
-<div class="sh-multicol2" style="line-height:120%;">
+<div class="flex-row">
+<div class="flex-col" style="line-height:125%;">
 
 ''NAUPROSTIR'' - The Science&Art Space is:
 
@@ -13,7 +14,10 @@ title: SCIENCE AND ART SPACE OF NAU
 * the platform for university-business cooperation;
 * the meeting place for the city community, the location for festivals, exhibitions.
 
-<$twitter type="shareButton" url="https://protw.github.io/nauprostir/" text="Science&Art Space of the National Aviation University, Kyiv, Ukraine" hashtags= "NAUPROF, NAUPROSTIR, Kyiv, PROTW"/>
+<$twitter type="shareButton" url="https://protw.github.io/nauprostir/" text="Science&Art Space of the National Aviation University, Kyiv, Ukraine" hashtags= "NAUPROF #NAUPROSTIR #PROTW"/>
+
+</div>
+<div class="flex-col" style="line-height:125%;">
 
 ''НАУПРОСТІР'' - Простір науки та мистецтва це:
 
@@ -21,6 +25,8 @@ title: SCIENCE AND ART SPACE OF NAU
 * резиденція для митців та винахідників;
 * платформа для співпраці між університетами та бізнесом;
 * місце зустрічі громади міста, місце проведення фестивалів, виставок.
+
+</div>
 </div>
 
 <<tabs "$:/plugins/boa/langswap/content-Eng $:/plugins/boa/langswap/content-Ukr" "$:/plugins/boa/langswap/content-Eng">>

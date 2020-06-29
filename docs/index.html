@@ -286,6 +286,10 @@ Error message and password prompt
 
 <li>$:/plugins/kookma/shiraz</li>
 
+<li>$:/plugins/kookma/shiraz/styles/misc/edit-buttons</li>
+
+<li>$:/plugins/kookma/shiraz/styles/misc/tiddler-button-visibility</li>
+
 <li>$:/plugins/kookma/utility</li>
 
 <li>$:/plugins/kookma/utility/styles/tw-version</li>
@@ -342,7 +346,7 @@ Error message and password prompt
 
 <li>Content</li>
 
-<li>D:\boa_protw\_tmp\_8MBSu1\tiddlers\191216 plan maidanchika naukovo-mistets'kogo prostoru.png</li>
+<li>D:\boa_protw\_tmp\_wcMepq\tiddlers\191216 plan maidanchika naukovo-mistets'kogo prostoru.png</li>
 
 <li>Description of the object</li>
 
@@ -11676,6 +11680,25 @@ To use in other wikis, drag and drop this link to those wikis: [[Kookma Plugin L
     }
 }</pre>
 </div>
+<div created="20191029091851469" modified="20200629102800449" tags="$:/tags/Stylesheet" title="$:/plugins/kookma/shiraz/styles/misc/edit-buttons" type="text/css" revision="0" bag="default">
+<pre>/*Edit buttons as traffic lights*/
+.tc-tiddler-controls .tc-image-delete-button {fill:#ebb;}
+.tc-tiddler-controls .tc-image-cancel-button {fill:#ed9;}
+.tc-tiddler-controls .tc-image-done-button {fill:#beb;}</pre>
+</div>
+<div created="20191029094209435" modified="20200629102756364" tags="$:/tags/Stylesheet" title="$:/plugins/kookma/shiraz/styles/misc/tiddler-button-visibility" type="text/css" revision="0" bag="default">
+<pre>/* Mouseover toolbar visibility: courtesy from Tobias Beer*/
+.tc-tiddler-frame .tc-titlebar button {
+  opacity: 0;
+  transition: opacity .5s ease-in-out;
+}
+.tc-tiddler-frame:hover .tc-titlebar button {
+  zoom: 1;
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+</pre>
+</div>
 <div author="Mohammad Rahmani" core-version="&gt;=5.1.22" dependents="" description="Utility" list="readme history license" plugin-type="plugin" source="https://github.com/kookma/TW-Utility" title="$:/plugins/kookma/utility" type="application/json" version="2.1.2" revision="0" bag="default">
 <pre>{
     &quot;tiddlers&quot;: {
@@ -12616,7 +12639,7 @@ $value={{$:/temp/newfieldvalue}}/&gt;
 &lt;&lt;alert-warning &quot;Insert here [[Content]] your custom table of content or something similar&quot;&gt;&gt;
 --&gt;</pre>
 </div>
-<div _canonical_uri="./images/D%253A%255Cboa_protw%255C_tmp%255C_8MBSu1%255Ctiddlers%255C191216%2520plan%2520maidanchika%2520naukovo-mistets'kogo%2520prostoru.png" title="D:\boa_protw\_tmp\_8MBSu1\tiddlers\191216 plan maidanchika naukovo-mistets'kogo prostoru.png" type="image/png" revision="2" bag="default">
+<div _canonical_uri="./images/D%253A%255Cboa_protw%255C_tmp%255C_wcMepq%255Ctiddlers%255C191216%2520plan%2520maidanchika%2520naukovo-mistets'kogo%2520prostoru.png" title="D:\boa_protw\_tmp\_wcMepq\tiddlers\191216 plan maidanchika naukovo-mistets'kogo prostoru.png" type="image/png" revision="2" bag="default">
 <pre></pre>
 </div>
 <div created="20191216190517555" modified="20191216211543686" swap="Опис об'єкта" tags="Eng" title="Description of the object" revision="0" bag="default">
@@ -12808,8 +12831,9 @@ Part 2 (13:30 -- 18:00)
 * There is a business incubator.
 </pre>
 </div>
-<div created="20200430205738831" icon="$:/boa/logo" modified="20200629073755070" title="SCIENCE AND ART SPACE OF NAU" revision="0" bag="default">
-<pre>&lt;div class=&quot;sh-multicol2&quot; style=&quot;line-height:120%;&quot;&gt;
+<div created="20200430205738831" icon="$:/boa/logo" modified="20200629103311471" title="SCIENCE AND ART SPACE OF NAU" revision="0" bag="default">
+<pre>&lt;div class=&quot;flex-row&quot;&gt;
+&lt;div class=&quot;flex-col&quot; style=&quot;line-height:125%;&quot;&gt;
 
 ''NAUPROSTIR'' - The Science&amp;Art Space is:
 
@@ -12818,7 +12842,10 @@ Part 2 (13:30 -- 18:00)
 * the platform for university-business cooperation;
 * the meeting place for the city community, the location for festivals, exhibitions.
 
-&lt;$twitter type=&quot;shareButton&quot; url=&quot;https://protw.github.io/nauprostir/&quot; text=&quot;Science&amp;Art Space of the National Aviation University, Kyiv, Ukraine&quot; hashtags= &quot;NAUPROF, NAUPROSTIR, Kyiv, PROTW&quot;/&gt;
+&lt;$twitter type=&quot;shareButton&quot; url=&quot;https://protw.github.io/nauprostir/&quot; text=&quot;Science&amp;Art Space of the National Aviation University, Kyiv, Ukraine&quot; hashtags= &quot;NAUPROF #NAUPROSTIR #PROTW&quot;/&gt;
+
+&lt;/div&gt;
+&lt;div class=&quot;flex-col&quot; style=&quot;line-height:125%;&quot;&gt;
 
 ''НАУПРОСТІР'' - Простір науки та мистецтва це:
 
@@ -12826,6 +12853,8 @@ Part 2 (13:30 -- 18:00)
 * резиденція для митців та винахідників;
 * платформа для співпраці між університетами та бізнесом;
 * місце зустрічі громади міста, місце проведення фестивалів, виставок.
+
+&lt;/div&gt;
 &lt;/div&gt;
 
 &lt;&lt;tabs &quot;$:/plugins/boa/langswap/content-Eng $:/plugins/boa/langswap/content-Ukr&quot; &quot;$:/plugins/boa/langswap/content-Eng&quot;&gt;&gt;
