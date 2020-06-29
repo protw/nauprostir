@@ -1,0 +1,15 @@
+created: 20191216220122423
+modified: 20191217081413431
+swap: Photo review
+tags: Ukr
+title: Фотоогляд
+
+: <<doc-svg $:/boa/img/fa5/square magenta>> Лабораторії Креативного Інкубатора
+: <<doc-svg $:/boa/img/fa5/square blue>> Офіси стартапів / конференц-зали
+: <<doc-svg $:/boa/img/fa5/square yellow>> Аеродинамічна труба - мистецький простір
+: <<doc-svg $:/boa/img/fa5/square red>> Open space, exhibition area, coffee shops
+: <<doc-svg $:/boa/img/fa5/square green>> Building of the Aerospace Faculty
+
+<$list filter="[prefix[img/Science & Art Space]sort[]]">
+<$macrocall $name="image-basic" img={{!!title}} width="45%" align="left"/>
+</$list>

@@ -1,0 +1,16 @@
+created: 20191216214044778
+modified: 20191217081425827
+swap: Фотоогляд
+tags: Eng
+title: Photo review
+
+: <<doc-svg $:/boa/img/fa5/square magenta>> Labs of the Creative Incubator
+: <<doc-svg $:/boa/img/fa5/square blue>> Startup offices / conference halls
+: <<doc-svg $:/boa/img/fa5/square yellow>> Wind tunnel - Art space
+: <<doc-svg $:/boa/img/fa5/square red>> Open space, exhibition area, coffee shops
+: <<doc-svg $:/boa/img/fa5/square green>> Building of the Aerospace Faculty
+
+
+<$list filter="[prefix[img/Science & Art Space]sort[]]">
+<$macrocall $name="image-basic" img={{!!title}} width="45%" align="left"/>
+</$list>

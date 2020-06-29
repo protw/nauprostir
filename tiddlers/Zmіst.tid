@@ -1,0 +1,14 @@
+created: 20200629064418781
+icon: $:/favicon.ico
+modified: 20200629064435037
+swap: Content
+tags: Ukr
+title: Зміст
+
+<div class="sh-multicol2">
+<<list-links "[list[Ukr]]" "ol">>
+</div>
+
+<!--
+<<alert-warning "Вставте тут [[Зміст]] власну таблицю змісту або щось подібне">>
+-->

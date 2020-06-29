@@ -1,0 +1,11 @@
+created: 20191229184505606
+modified: 20191229190113500
+swap: Будівельні плани машинної зали
+tags: Eng
+title: Construction plans of the machinery premises
+
+Here are the plans for the machinery premises. The plans are quite old (around the early 1960s) and of very poor quality. We have done our best to improve their quality with the help of computer graphic filters.
+
+<$list filter="[prefix[img/building-design]sort[]]">
+<$macrocall $name="image-basic" img={{!!title}} width="95%" align="left"/>
+</$list>

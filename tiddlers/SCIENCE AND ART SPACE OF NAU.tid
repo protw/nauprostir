@@ -1,0 +1,16 @@
+created: 20200430205738831
+icon: $:/boa/logo
+modified: 20200629072301705
+revision: 0
+title: SCIENCE AND ART SPACE OF NAU
+
+<div class="sh-multicol2" style="line-height:120%;">
+
+''Kyiv MRF'' - is a joint project initiative (startup) of the Project Office of the National Aviation University and the National Ecological Center of Ukraine, aimed at transforming the Ukrainian capital into a modern, sustainable and balanced city and, above all, reforming the municipal waste management system, namely its transformation into environmental and economically useful, through the introduction of a revolutionary recuperation plant for Ukraine, as well as education and incentives for city residents to participate in responsible waste disposal, sorting, recycling and reuse. We believe in a clean environment, both inside and outside of human consciousness. So we invite you to join.
+
+<$twitter type="shareButton" url="https://protw.github.io/nauprostir/" text="Science&Art Space of the National Aviation University, Kyiv, Ukraine" hashtags= "NAUPROF, NAUPROSTIR, Kyiv, PROTW"/>
+
+''Kyiv MRF'' - це спільна проєктна ініціатива (стартап) Проектного Офісу Національного авіаційного університету і Національного екологічного центру України, спрямована на трансформацію української столиці до стандарту сучасного, сталого та збалансованого міста і, зокрема, на реформацію міської системи поводження з відходами, а саме, її перетворення на екологічно та економічно корисну, шляхом впровадження революційного для України рекупераційного заводу, а також просвіти та стимулювання жителів міста до участі у відповідальній утилізації відходів, їхньому сортуванні, переробці та повторному використанні. Ми віримо у чисте середовище, як всередині, так і назовні людської свідомості. Тож запрошуємо Вас приєднуватись.
+</div>
+
+<<tabs "$:/plugins/boa/langswap/content-Eng $:/plugins/boa/langswap/content-Ukr" "$:/plugins/boa/langswap/content-Eng">>

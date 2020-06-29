@@ -1,0 +1,11 @@
+created: 20191229185422647
+modified: 20191229185714607
+swap: Construction plans of the machinery premises
+tags: Ukr
+title: Будівельні плани машинної зали
+
+Тут представлені будівельні плани машинної зали. Плани досить старі (приблизно на початку 1960-х) і дуже низької якості. Ми зробили все можливе, щоб покращити їх якість за допомогою комп'ютерних графічних фільтрів.
+
+<$list filter="[prefix[img/building-design]sort[]]">
+<$macrocall $name="image-basic" img={{!!title}} width="95%" align="left"/>
+</$list>

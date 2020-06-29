@@ -1,0 +1,1026 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 23890.18 16934.53" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+   <clipPath id="id0" clip-rule="nonzero">
+    <path d="M16905.75 14442.95l1869.56 0c42.77,0 77.1,34.74 77.1,76.97l0 1436.53c0,42.22 -34.33,76.97 -77.1,76.97l-1869.56 0c-42.77,0 -77.1,-34.75 -77.1,-76.97l0 -1436.53c0,-42.23 34.33,-76.97 77.1,-76.97z"/>
+   </clipPath>
+   <clipPath id="id1" clip-rule="nonzero">
+    <path d="M19999.65 14312.77l1869.56 0c42.77,0 77.1,34.62 77.1,77.11l0 1735.16c0,42.49 -34.33,77.11 -77.1,77.11l-1869.56 0c-42.77,0 -77.1,-34.62 -77.1,-77.11l0 -1735.16c0,-42.49 34.33,-77.11 77.1,-77.11z"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon fill="white" fill-rule="nonzero" points="-0,0 23890.18,0 23890.18,16934.53 -0,16934.53 "/>
+  <polygon fill="white" fill-rule="nonzero" points="-0,0 23854.84,0 23854.84,16934.53 -0,16934.53 "/>
+  <polygon fill="white" fill-rule="nonzero" points="-0,0 23854.84,0 23854.84,16934.53 -0,16934.53 "/>
+  <polygon fill="white" fill-rule="nonzero" points="-0,0 23854.84,0 23854.84,16934.53 -0,16934.53 "/>
+  <polygon fill="white" fill-rule="nonzero" points="-0,0 23854.84,0 23854.84,16934.53 -0,16934.53 "/>
+  <polygon fill="white" fill-rule="nonzero" points="-0,0 23854.84,0 23854.84,16934.53 -0,16934.53 "/>
+  <polygon fill="#7AA3E5" fill-rule="nonzero" points="10643.62,7034.07 10549.66,7096.06 10643.62,7158.05 10549.66,7158.05 10549.66,7034.07 "/>
+  <polygon fill="#7AA3E5" fill-rule="nonzero" points="8068.74,3341.69 8064.69,3341.69 7975.12,3401.66 8064.69,3461.62 8068.74,3461.62 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#7AA3E5" stroke-width="340.33" stroke-linejoin="round" stroke-miterlimit="10" d="M10563.15 7096.06c-2042.75,0 -138.95,-3696.42 -2495.76,-3696.42"/>
+  <polygon fill="#7FABE3" fill-rule="nonzero" points="6202.63,2946.43 6259.65,2860.01 6316.66,2946.43 6316.66,2860.01 6202.63,2860.01 "/>
+  <polygon fill="#7FABE3" fill-rule="nonzero" points="6206,2419.54 6206,2415.49 6261,2333.46 6315.99,2415.49 6315.99,2419.54 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#7FABE3" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M6259.65 2873.5c0,-106.48 0,-352.2 0,-458.68"/>
+  <polygon fill="#75A4E0" fill-rule="nonzero" points="4592.29,3342.62 4505.87,3399.64 4592.29,3456.66 4505.87,3456.66 4505.87,3342.62 "/>
+  <polygon fill="#75A4E0" fill-rule="nonzero" points="3630.33,1323.07 3626.28,1323.07 3544.24,1378.07 3626.28,1433.06 3630.33,1433.06 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#75A4E0" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M4519.36 3399.64c-785.16,0 161.88,-2023.6 -890.38,-2023.6"/>
+  <polygon fill="#78A5DF" fill-rule="nonzero" points="4592.29,3342.62 4505.87,3399.64 4592.29,3456.66 4505.87,3456.66 4505.87,3342.62 "/>
+  <polygon fill="#78A5DF" fill-rule="nonzero" points="3792.21,3346.67 3788.17,3346.67 3706.13,3401.66 3788.17,3456.66 3792.21,3456.66 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#78A5DF" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M4519.36 3399.64c-487.55,0 -380.25,0 -728.5,0"/>
+  <polygon fill="#67D7C4" fill-rule="nonzero" points="12578.72,8162.31 12640.71,8256.26 12702.7,8162.31 12702.7,8256.26 12578.72,8256.26 "/>
+  <polygon fill="#67D7C4" fill-rule="nonzero" points="12579.39,11250.5 12579.39,11254.55 12639.36,11344.12 12699.32,11254.55 12699.32,11250.5 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#67D7C4" stroke-width="340.33" stroke-linejoin="round" stroke-miterlimit="10" d="M12640.71 8242.76c0,902.53 0,2105.89 0,3008.41"/>
+  <polygon fill="#5FD3BD" fill-rule="nonzero" points="14753.26,12030.58 14839.68,12087.59 14753.26,12144.61 14839.68,12144.61 14839.68,12030.58 "/>
+  <polygon fill="#5FD3BD" fill-rule="nonzero" points="14810.32,13044.75 14810.32,13048.8 14865.31,13130.83 14920.3,13048.8 14920.3,13044.75 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#5FD3BD" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M14826.19 12087.59c212.59,0 40.47,654.89 40.47,957.83"/>
+  <polygon fill="#6FDBC7" fill-rule="nonzero" points="10528.16,12030.58 10441.74,12087.59 10528.16,12144.61 10441.74,12144.61 10441.74,12030.58 "/>
+  <polygon fill="#6FDBC7" fill-rule="nonzero" points="4550.39,12371.89 4546.34,12371.89 4464.31,12426.88 4546.34,12481.87 4550.39,12481.87 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#6FDBC7" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M10455.23 12087.59c-4163.21,0 -2853.27,337.27 -5908.89,337.27"/>
+  <polygon fill="#70D8C5" fill-rule="nonzero" points="10528.16,12030.58 10441.74,12087.59 10528.16,12144.61 10441.74,12144.61 10441.74,12030.58 "/>
+  <polygon fill="#70D8C5" fill-rule="nonzero" points="10361.11,12882.86 10361.11,12886.91 10416.11,12968.94 10471.1,12886.91 10471.1,12882.86 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#70D8C5" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M10455.23 12087.59c-209.15,0 -40.48,544.98 -40.48,795.95"/>
+  <polygon fill="#5FD5BF" fill-rule="nonzero" points="10528.16,12030.58 10441.74,12087.59 10528.16,12144.61 10441.74,12144.61 10441.74,12030.58 "/>
+  <polygon fill="#5FD5BF" fill-rule="nonzero" points="5090.01,14935.1 5085.96,14935.1 5003.93,14990.1 5085.96,15045.09 5090.01,15045.09 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#5FD5BF" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M10455.23 12087.59c-3990.53,0 -1814.49,2900.48 -5369.27,2900.48"/>
+  <polygon fill="#5DD5BF" fill-rule="nonzero" points="10528.16,12030.58 10441.74,12087.59 10528.16,12144.61 10441.74,12144.61 10441.74,12030.58 "/>
+  <polygon fill="#5DD5BF" fill-rule="nonzero" points="9713.56,11013.06 9713.56,11009.02 9768.56,10926.98 9823.55,11009.02 9823.55,11013.06 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#5DD5BF" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M10455.23 12087.59c-567.96,0 -688.02,-411.46 -688.02,-1079.25"/>
+  <polygon fill="#64D8C2" fill-rule="nonzero" points="10528.16,12030.58 10441.74,12087.59 10528.16,12144.61 10441.74,12144.61 10441.74,12030.58 "/>
+  <polygon fill="#64D8C2" fill-rule="nonzero" points="5629.64,10429.24 5625.59,10429.24 5543.55,10484.23 5625.59,10539.23 5629.64,10539.23 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#64D8C2" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M10455.23 12087.59c-3509.18,0 -1933.21,-1605.38 -4829.64,-1605.38"/>
+  <polygon fill="#61D3BE" fill-rule="nonzero" points="14753.26,12030.58 14839.68,12087.59 14753.26,12144.61 14839.68,12144.61 14839.68,12030.58 "/>
+  <polygon fill="#61D3BE" fill-rule="nonzero" points="17115.54,12533.77 17119.59,12533.77 17201.63,12588.77 17119.59,12643.76 17115.54,12643.76 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#61D3BE" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M14826.19 12087.59c1645.31,0 996.95,499.15 2293.4,499.15"/>
+  <polygon fill="#9ED56B" fill-rule="nonzero" points="10643.62,7034.07 10549.66,7096.06 10643.62,7158.05 10549.66,7158.05 10549.66,7034.07 "/>
+  <polygon fill="#9ED56B" fill-rule="nonzero" points="9363.84,7618.22 9359.79,7618.22 9270.22,7678.18 9359.79,7738.15 9363.84,7738.15 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#9ED56B" stroke-width="340.33" stroke-linejoin="round" stroke-miterlimit="10" d="M10563.15 7096.06c-886.87,0 -426.3,580.1 -1200.66,580.1"/>
+  <polygon fill="#A3D46A" fill-rule="nonzero" points="7106.5,7222.95 7163.52,7136.54 7220.54,7222.95 7220.54,7136.54 7106.5,7136.54 "/>
+  <polygon fill="#A3D46A" fill-rule="nonzero" points="6621.51,6979.37 6621.51,6975.32 6676.51,6893.29 6731.5,6975.32 6731.5,6979.37 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#A3D46A" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M7163.52 7150.03c0,-249.95 -485.66,74.57 -485.66,-175.38"/>
+  <polygon fill="#A2D468" fill-rule="nonzero" points="5104.93,7619.14 5018.51,7676.16 5104.93,7733.18 5018.51,7733.18 5018.51,7619.14 "/>
+  <polygon fill="#A2D468" fill-rule="nonzero" points="3697.78,5559.13 3693.73,5559.13 3611.7,5614.12 3693.73,5669.11 3697.78,5669.11 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#A2D468" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M5032 7676.16c-1100.02,0 -48.57,-2064.06 -1335.57,-2064.06"/>
+  <polygon fill="#A5D36F" fill-rule="nonzero" points="5104.93,7619.14 5018.51,7676.16 5104.93,7733.18 5018.51,7733.18 5018.51,7619.14 "/>
+  <polygon fill="#A5D36F" fill-rule="nonzero" points="4250.89,8054.89 4246.85,8054.89 4164.81,8109.89 4246.85,8164.88 4250.89,8164.88 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#A5D36F" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M5032 7676.16c-570.68,0 -272.07,431.7 -782.45,431.7"/>
+  <polygon fill="#EBD95F" fill-rule="nonzero" points="14637.8,7034.07 14731.75,7096.06 14637.8,7158.05 14731.75,7158.05 14731.75,7034.07 "/>
+  <polygon fill="#EBD95F" fill-rule="nonzero" points="15456.2,9102.18 15460.24,9102.18 15549.82,9162.15 15460.24,9222.12 15456.2,9222.12 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#EBD95F" stroke-width="340.33" stroke-linejoin="round" stroke-miterlimit="10" d="M14718.26 7096.06c684.52,0 -248.22,2064.07 741.98,2064.07"/>
+  <polygon fill="#EFD86B" fill-rule="nonzero" points="17008.61,8679.94 17065.63,8593.52 17122.65,8679.94 17122.65,8403.3 17065.63,8318.2 17008.61,8403.3 "/>
+  <polygon fill="#EFD869" fill-rule="nonzero" points="18530.63,9103.11 18617.05,9160.13 18530.63,9217.15 18617.05,9217.15 18617.05,9103.11 "/>
+  <polygon fill="#EFD869" fill-rule="nonzero" points="19193.1,8041.4 19197.15,8041.4 19279.18,8096.39 19197.15,8151.39 19193.1,8151.39 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#EFD869" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M18603.56 9160.13c500.77,0 -22.94,-1065.76 593.59,-1065.76"/>
+  <polygon fill="#F0D96C" fill-rule="nonzero" points="18530.63,9103.11 18617.05,9160.13 18530.63,9217.15 18617.05,9217.15 18617.05,9103.11 "/>
+  <polygon fill="#F0D96C" fill-rule="nonzero" points="19220.08,9444.42 19224.13,9444.42 19306.16,9499.42 19224.13,9554.41 19220.08,9554.41 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#F0D96C" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M18603.56 9160.13c438.57,0 229.44,337.27 620.57,337.27"/>
+  <polygon fill="#F0D96A" fill-rule="nonzero" points="18530.63,9103.11 18617.05,9160.13 18530.63,9217.15 18617.05,9217.15 18617.05,9103.11 "/>
+  <polygon fill="#F0D96A" fill-rule="nonzero" points="19287.53,10672.07 19291.58,10672.07 19373.61,10727.06 19291.58,10782.06 19287.53,10782.06 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#F0D96A" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M18603.56 9160.13c606.81,0 -125.46,1564.91 688.02,1564.91"/>
+  <polygon fill="#EFD86B" fill-rule="nonzero" points="17008.61,9640.32 17065.63,9726.73 17122.65,9640.32 17122.65,9726.73 17008.61,9726.73 "/>
+  <polygon fill="#EFD86B" fill-rule="nonzero" points="17845.7,10225.21 17845.7,10229.26 17900.7,10311.29 17955.69,10229.26 17955.69,10225.21 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#EFD86B" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M17065.63 9713.24c0,564.13 836.42,-51.48 836.42,512.65"/>
+  <polygon fill="#EFD765" fill-rule="nonzero" points="17008.61,9640.32 17065.63,9726.73 17122.65,9640.32 17122.65,9726.73 17008.61,9726.73 "/>
+  <polygon fill="#EFD765" fill-rule="nonzero" points="16189.06,10090.31 16189.06,10094.35 16244.05,10176.39 16299.04,10094.35 16299.04,10090.31 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#EFD765" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M17065.63 9713.24c0,514.88 -822.93,-137.13 -822.93,377.74"/>
+  <polygon fill="#EFA670" fill-rule="nonzero" points="12578.72,6029.82 12640.71,5935.87 12702.7,6029.82 12702.7,5935.87 12578.72,5935.87 "/>
+  <polygon fill="#EFA670" fill-rule="nonzero" points="13172.98,5589.84 13172.98,5585.79 13232.95,5496.22 13292.91,5585.79 13292.91,5589.84 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#EFA670" stroke-width="340.33" stroke-linejoin="round" stroke-miterlimit="10" d="M12640.71 5949.36c0,-384.89 593.58,20.65 593.58,-364.24"/>
+  <polygon fill="#F0A879" fill-rule="nonzero" points="11755.8,4934.51 11669.38,4991.53 11755.8,5048.55 11669.38,5048.55 11669.38,4934.51 "/>
+  <polygon fill="#F0A879" fill-rule="nonzero" points="11211.02,3377.38 11211.02,3373.33 11266.01,3291.3 11321.01,3373.33 11321.01,3377.38 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#F0A879" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M11682.87 4991.53c-422.25,0 -418.21,-924.11 -418.21,-1618.87"/>
+  <polygon fill="#F0A97B" fill-rule="nonzero" points="14712.79,4934.51 14799.21,4991.53 14712.79,5048.55 14799.21,5048.55 14799.21,4934.51 "/>
+  <polygon fill="#F0A97B" fill-rule="nonzero" points="15538.81,3687.66 15538.81,3683.61 15593.8,3601.58 15648.8,3683.61 15648.8,3687.66 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#F0A97B" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M14785.72 4991.53c671.29,0 809.43,-511.29 809.43,-1308.59"/>
+  <polygon fill="#F2A979" fill-rule="nonzero" points="14712.79,4934.51 14799.21,4991.53 14712.79,5048.55 14799.21,5048.55 14799.21,4934.51 "/>
+  <polygon fill="#F2A979" fill-rule="nonzero" points="19058.19,2914.97 19062.24,2914.97 19144.27,2969.96 19062.24,3024.95 19058.19,3024.95 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#F2A979" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M14785.72 4991.53c3155.45,0 1531.18,-2023.59 4276.52,-2023.59"/>
+  <polygon fill="#EFA474" fill-rule="nonzero" points="14712.79,4934.51 14799.21,4991.53 14712.79,5048.55 14799.21,5048.55 14799.21,4934.51 "/>
+  <polygon fill="#EFA474" fill-rule="nonzero" points="18221.78,5801.96 18225.82,5801.96 18307.86,5856.95 18225.82,5911.94 18221.78,5911.94 "/>
+  <path fill="none" fill-rule="nonzero" stroke="#EFA474" stroke-width="313.04" stroke-linejoin="round" stroke-miterlimit="10" d="M14785.72 4991.53c2477.14,0 1461.03,863.4 3440.1,863.4"/>
+  <path fill="#B4B4B4" fill-rule="nonzero" d="M10687.45 7159.81l-94.29 -66 94.29 -66.01 0 -924.07c0,-18.6 15.07,-33.68 33.67,-33.68l1853.53 0 66.01 -94.29 66 94.29 1853.53 0c18.6,0 33.68,15.08 33.68,33.68l0 924.07 94.29 66.01 -94.29 66 0 924.07c0,18.6 -15.08,33.68 -33.68,33.68l-1853.53 0 -66 94.29 -66.01 -94.29 -1853.53 0c-18.6,0 -33.67,-15.08 -33.67,-33.68l0 -924.07z"/>
+  <text x="10905.76" y="6929.95"  fill="#383838" font-weight="bold" font-size="722.87px" font-family="Liberation Sans">Науковий</text>
+  <text x="10925.04" y="7758.85"  fill="#383838" font-weight="bold" font-size="722.87px" font-family="Liberation Sans">Парк НАУ</text>
+  <path fill="#7AA3E5" fill-rule="nonzero" d="M4624.89 3407.15c0,-236.88 192.03,-428.91 428.91,-428.91l2412.59 0c236.88,0 428.9,192.03 428.9,428.91 0,236.87 -192.02,428.9 -428.9,428.9l-2412.59 0c-236.88,0 -428.91,-192.03 -428.91,-428.9l0 0z"/>
+  <path fill="#BE1931" fill-rule="nonzero" d="M6403.71 3163.2c0,-45.23 -36.67,-81.9 -81.89,-81.9 -27.46,0 -51.69,13.55 -66.55,34.27 -14.86,-20.72 -39.09,-34.27 -66.54,-34.27 -45.23,0 -81.9,36.67 -81.9,81.9 0,6.41 0.81,12.61 2.21,18.6 11.38,70.65 89.93,145.2 146.23,165.66 56.3,-20.46 134.86,-95.01 146.22,-165.66 1.41,-5.99 2.22,-12.19 2.22,-18.6z"/>
+  <text x="5016.75" y="3662.56"  fill="#273347" font-weight="bold" font-size="318.06px" font-family="Liberation Sans">ЦІЛЬОВІ ГРУПИ</text>
+  <path fill="#7FABE3" fill-rule="nonzero" d="M4597.48 584.06c0,-29.77 24.14,-53.91 53.91,-53.91l3207.76 0c29.78,0 53.91,24.14 53.91,53.91l0 1617.36c0,29.77 -24.13,53.91 -53.91,53.91l-3207.76 0c-29.77,0 -53.91,-24.14 -53.91,-53.91l0 -1617.36z"/>
+  <text x="5276.98" y="930.1"  fill="#283547" font-weight="bold" font-size="260.22px" font-family="Liberation Sans">Всередині НАУ</text>
+  <path fill="#283547" stroke="#283547" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M4862.53 1166.24c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="4997.47" y="1238.53"  fill="#283547" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Студенти</text>
+  <path fill="#283547" stroke="#283547" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M4862.53 1416.83c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.62 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.11 33.73,33.73z"/>
+  <text x="4997.47" y="1489.12"  fill="#283547" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Викладачі і дослідники</text>
+  <path fill="#283547" stroke="#283547" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M4862.53 1667.43c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="4997.47" y="1739.72"  fill="#283547" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Активні новаторські та</text>
+  <text x="4997.47" y="1990.31"  fill="#283547" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">дослідницькі групи НАУ</text>
+  <path fill="#75A4E0" fill-rule="nonzero" d="M493.21 574.39c0,-29.78 24.14,-53.92 53.92,-53.92l2857.46 0c29.77,0 53.91,24.14 53.91,53.92l0 1617.42c0,29.78 -24.14,53.92 -53.91,53.92l-2857.46 0c-29.78,0 -53.92,-24.14 -53.92,-53.92l0 -1617.42z"/>
+  <text x="1556.59" y="920.46"  fill="#273344" font-weight="bold" font-size="260.22px" font-family="Liberation Sans">Бізнес</text>
+  <path fill="#273344" stroke="#273344" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M746.97 1156.6c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="881.91" y="1228.89"  fill="#273344" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Зовнішні новаторські</text>
+  <text x="881.91" y="1479.48"  fill="#273344" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">групи (стартапи)</text>
+  <path fill="#273344" stroke="#273344" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M746.97 1657.79c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.74,-15.11 -33.74,-33.74 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="881.91" y="1730.08"  fill="#273344" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Партнери НАУ</text>
+  <path fill="#273344" stroke="#273344" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M746.97 1908.39c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.74 33.74,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="881.91" y="1980.68"  fill="#273344" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Субконтрактори НАУ</text>
+  <path fill="#78A5DF" fill-rule="nonzero" d="M337.34 2868.35c0,-29.76 24.13,-53.88 53.88,-53.88l3178.91 0c29.76,0 53.88,24.12 53.88,53.88l0 1077.6c0,29.75 -24.12,53.88 -53.88,53.88l-3178.91 0c-29.75,0 -53.88,-24.13 -53.88,-53.88l0 -1077.6z"/>
+  <text x="1542.13" y="3195.1"  fill="#273444" font-weight="bold" font-size="260.23px" font-family="Liberation Sans">Фонди</text>
+  <path fill="#273444" stroke="#273444" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M713.24 3431.24c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="848.17" y="3503.53"  fill="#273444" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Інноваційно-інвестиційні</text>
+  <path fill="#273444" stroke="#273444" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M713.24 3681.84c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="848.17" y="3754.13"  fill="#273444" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Грантові та благодійні</text>
+  <path fill="#67D7C4" fill-rule="nonzero" d="M10544.32 12086.45c0,-372.61 302.07,-674.68 674.68,-674.68l2833.67 0c372.62,0 674.68,302.07 674.68,674.68 0,372.62 -302.06,674.69 -674.68,674.69l-2833.67 0c-372.61,0 -674.68,-302.07 -674.68,-674.69l0 0z"/>
+  <path fill="#77B255" fill-rule="nonzero" d="M12741.86 11864.77l-202.4 0c-26.61,0 -48.19,-21.59 -48.19,-48.19l0 -202.4c0,-26.61 21.58,-48.2 48.19,-48.2l202.4 0c26.6,0 48.19,21.59 48.19,48.2l0 202.4c0,26.6 -21.59,48.19 -48.19,48.19z"/>
+  <path fill="white" fill-rule="nonzero" d="M12603.31 11806.68c-5.31,0 -10.62,-2.03 -14.67,-6.08l-53.95 -53.95c-8.1,-8.11 -8.1,-21.24 0,-29.35 8.1,-8.1 21.24,-8.1 29.35,0l39.27 39.29 113.97 -113.98c8.11,-8.11 21.24,-8.11 29.35,0 8.1,8.11 8.1,21.23 0,29.34l-128.65 128.65c-4.05,4.05 -9.36,6.08 -14.67,6.08z"/>
+  <text x="11609.36" y="12163.56"  fill="#253E3A" font-weight="bold" font-size="318.06px" font-family="Liberation Sans">ФУНДАМЕНТ</text>
+  <text x="11166" y="12529.82"  fill="#253E3A" font-weight="bold" font-size="318.06px" font-family="Liberation Sans">(ЗАСНОВНИЦТВО)</text>
+  <path fill="#5FD3BD" fill-rule="nonzero" d="M13205.56 13258.1c0,-29.61 23.99,-53.6 53.6,-53.6l3215.9 0c29.61,0 53.6,23.99 53.6,53.6l0 991.57c0,29.6 -23.99,53.6 -53.6,53.6l-3215.9 0c-29.61,0 -53.6,-24 -53.6,-53.6l0 -991.57z"/>
+  <text x="13493.65" y="13561.12"  fill="#243C37" font-weight="bold" font-size="250.59px" font-family="Liberation Sans">Обладнання, споруди</text>
+  <path fill="#243C37" stroke="#243C37" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14283.99 13787.62c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.74 33.74,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="14409.29" y="13850.27"  fill="#243C37" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">Орендовані</text>
+  <path fill="#243C37" stroke="#243C37" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14283.99 14028.58c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.64 15.11,-33.74 33.74,-33.74 18.63,0 33.73,15.1 33.73,33.74z"/>
+  <text x="14409.29" y="14091.22"  fill="#243C37" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">Власні</text>
+  <path fill="#6FDBC7" fill-rule="nonzero" d="M559.03 11754.95c0,-29.76 24.12,-53.89 53.89,-53.89l3718.62 0c29.77,0 53.9,24.13 53.9,53.89l0 1347.33c0,29.76 -24.13,53.89 -53.9,53.89l-3718.62 0c-29.77,0 -53.89,-24.13 -53.89,-53.89l0 -1347.33z"/>
+  <text x="1310.81" y="11965.97"  fill="#26413C" font-weight="bold" font-size="260.23px" font-family="Liberation Sans">Статутний внесок</text>
+  <text x="775.89" y="12226.21"  fill="#26413C" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Права інтелектуальної власності</text>
+  <path fill="#26413C" stroke="#26413C" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M1185.52 12452.71c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="1320.45" y="12525"  fill="#26413C" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Обліковані</text>
+  <path fill="#26413C" stroke="#26413C" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M1185.52 12703.31c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.64 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.1 33.74,33.74z"/>
+  <text x="1320.45" y="12775.59"  fill="#26413C" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Оцінені належним</text>
+  <text x="1320.45" y="13026.19"  fill="#26413C" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">чином</text>
+  <path fill="#70D8C5" fill-rule="nonzero" d="M8203.63 13094.57c0,-29.78 24.13,-53.92 53.91,-53.92l4313.33 0c29.78,0 53.92,24.14 53.92,53.92l0 3477.62c0,29.77 -24.14,53.91 -53.92,53.91l-4313.33 0c-29.78,0 -53.91,-24.14 -53.91,-53.91l0 -3477.62z"/>
+  <text x="8645.57" y="13532.2"  fill="#26403B" font-weight="bold" font-size="269.86px" font-family="Liberation Sans">Інвестори-співзасновники</text>
+  <path fill="#26403B" stroke="#26403B" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M8462.45 13787.62c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="8597.38" y="13850.27"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Світові лідери авіа-космічної і</text>
+  <text x="8597.38" y="14120.14"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">оборонної галузей (</text>
+  <text x="11353.94" y="14929.76"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">)</text>
+  <text x="10727.45" y="14120.14"  fill="#26403B" font-style="italic" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Boeing, Airbus,</text>
+  <text x="8597.38" y="14390.01"  fill="#26403B" font-style="italic" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">DASA, Honeywell, Bombardier</text>
+  <text x="8597.38" y="14659.89"  fill="#26403B" font-style="italic" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Aerospace, Lockheed, IAI, Антонов,</text>
+  <text x="8597.38" y="14929.76"  fill="#26403B" font-style="italic" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Мотор Січ, Південмаш ...</text>
+  <path fill="#26403B" stroke="#26403B" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M8462.45 15136.98c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="8597.38" y="15199.63"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Державні інноваційно-інвестиційні</text>
+  <text x="8597.38" y="15469.5"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">фонди (</text>
+  <text x="11093.71" y="15469.5"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">)</text>
+  <text x="9445.56" y="15469.5"  fill="#26403B" font-style="italic" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">ДІФКУ, UNSF...</text>
+  <path fill="#26403B" stroke="#26403B" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M8462.45 15676.73c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="8597.38" y="15739.38"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Недержавні фонди (</text>
+  <text x="9262.43" y="16009.25"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">)</text>
+  <text x="10785.28" y="15739.38"  fill="#26403B" font-style="italic" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Фонд розвитку</text>
+  <text x="8597.38" y="16009.25"  fill="#26403B" font-style="italic" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">НАУ...</text>
+  <path fill="#26403B" stroke="#26403B" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M8462.45 16216.47c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="8597.38" y="16279.12"  fill="#26403B" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Інше</text>
+  <path fill="#5FD5BF" fill-rule="nonzero" d="M520.47 13288.88c0,-29.79 24.14,-53.93 53.93,-53.93l4287.22 0c29.78,0 53.92,24.14 53.92,53.93l0 3397.42c0,29.78 -24.14,53.93 -53.92,53.93l-4287.22 0c-29.79,0 -53.93,-24.15 -53.93,-53.93l0 -3397.42z"/>
+  <text x="1281.9" y="13686.42"  fill="#243C38" font-weight="bold" font-size="269.86px" font-family="Liberation Sans">Юридичні процедури</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 13941.83c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="920.46" y="14004.48"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Рішення про заснування</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 14211.7c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="920.46" y="14274.35"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Статут і засновницький договір</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 14481.58c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="920.46" y="14544.23"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Перелік пріоритетних напрямів НП;</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 14751.45c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="920.46" y="14814.1"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Перелік наукових розробок, які</text>
+  <text x="920.46" y="15083.97"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">забезпечать розвиток НП</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 15291.2c0,18.62 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.11 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="920.46" y="15353.84"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Відомості про засновників, наявну</text>
+  <text x="920.46" y="15623.72"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">та потенційну інфраструктуру</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 15830.94c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="920.46" y="15893.59"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Погодження МОН</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 16100.81c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="920.46" y="16163.46"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Державна реєстрація</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M785.53 16370.69c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="920.46" y="16433.34"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Наказ на створення НП НАУ</text>
+  <path fill="#5DD5BF" fill-rule="nonzero" d="M7291.72 8554.84c0,-29.73 24.11,-53.84 53.85,-53.84l4845.74 0c29.74,0 53.85,24.11 53.85,53.84l0 2234.43c0,29.74 -24.11,53.84 -53.85,53.84l-4845.74 0c-29.74,0 -53.85,-24.1 -53.85,-53.84l0 -2234.43z"/>
+  <text x="8438.35" y="8905.81"  fill="#243C38" font-weight="bold" font-size="269.86px" font-family="Liberation Sans">Фонд розвитку НАУ</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M7537.17 9161.22c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="7672.1" y="9223.87"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Фонд типу endowment fund</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M7537.17 9431.1c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="7672.1" y="9493.75"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Може залучати у якості учасників</text>
+  <text x="7672.1" y="9763.62"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">успішних випускників НАУ, підприємців,</text>
+  <text x="7672.1" y="10033.49"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">юридичних осіб, які готові вкладатися в</text>
+  <text x="7672.1" y="10303.36"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">розвиток авіації, космосу, освіти у цій</text>
+  <text x="7672.1" y="10573.24"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">сфері</text>
+  <path fill="#64D8C2" fill-rule="nonzero" d="M507.14 9499.38c0,-29.73 24.1,-53.83 53.82,-53.83l4844.2 0c29.73,0 53.82,24.1 53.82,53.83l0 1964.59c0,29.72 -24.09,53.82 -53.82,53.82l-4844.2 0c-29.72,0 -53.82,-24.1 -53.82,-53.82l0 -1964.59z"/>
+  <text x="1296.36" y="9850.36"  fill="#243E39" font-weight="bold" font-size="269.86px" font-family="Liberation Sans">Стартове заповнення НП</text>
+  <path fill="#243E39" stroke="#243E39" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M751.79 10105.78c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.74 33.74,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="886.73" y="10168.43"  fill="#243E39" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Активні комерційно-успішні проекти</text>
+  <path fill="#243E39" stroke="#243E39" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M751.79 10375.65c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="886.73" y="10438.3"  fill="#243E39" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Активні профільні партнери НАУ</text>
+  <path fill="#243E39" stroke="#243E39" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M751.79 10645.52c0,18.64 -15.1,33.74 -33.73,33.74 -18.63,0 -33.74,-15.1 -33.74,-33.74 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="886.73" y="10708.17"  fill="#243E39" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Активні успішні некомерційні утворення</text>
+  <text x="886.73" y="10978.05"  fill="#243E39" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">на базі НАУ (в ролі коворкінгів НП НАУ)</text>
+  <path fill="#243E39" stroke="#243E39" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M751.79 11185.27c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="886.73" y="11247.92"  fill="#243E39" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Інше</text>
+  <path fill="#61D3BE" fill-rule="nonzero" d="M17284.83 11465.61c0,-29.73 24.11,-53.84 53.84,-53.84l4926.52 0c29.73,0 53.84,24.11 53.84,53.84l0 2234.43c0,29.74 -24.11,53.84 -53.84,53.84l-4926.52 0c-29.73,0 -53.84,-24.1 -53.84,-53.84l0 -2234.43z"/>
+  <text x="18664.61" y="11816.58"  fill="#243C38" font-weight="bold" font-size="269.86px" font-family="Liberation Sans">Пул компаній НП</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M17536.92 12072c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.64 15.11,-33.74 33.74,-33.74 18.63,0 33.73,15.1 33.73,33.74z"/>
+  <text x="17671.86" y="12134.65"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Це брендові нішеві профільні компанії</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M17536.92 12341.87c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="17671.86" y="12404.52"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Їм надаються приміщення під сумісні</text>
+  <text x="17671.86" y="12674.39"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">лабораторії, представництва тощо</text>
+  <path fill="#243C38" stroke="#243C38" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M17536.92 12881.62c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.64 15.11,-33.74 33.74,-33.74 18.63,0 33.73,15.1 33.73,33.74z"/>
+  <text x="17671.86" y="12944.26"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Вони знаходяться під дахом НП, НАУ</text>
+  <text x="17671.86" y="13214.14"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">отримує орендну плату, НП надає їм</text>
+  <text x="17671.86" y="13484.01"  fill="#243C38" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">консультації</text>
+  <path fill="#9ED56B" fill-rule="nonzero" d="M5137.38 7676.92c0,-236.87 192.02,-428.9 428.9,-428.9l3189.99 0c236.87,0 428.9,192.03 428.9,428.9 0,236.88 -192.03,428.91 -428.9,428.91l-3189.99 0c-236.88,0 -428.9,-192.03 -428.9,-428.91l0 0z"/>
+  <path fill="#3E721D" fill-rule="nonzero" d="M7254.45 7574.38c-2.7,0 -5.32,-1.4 -6.75,-3.91l-32.88 -54.17c-2.13,-3.71 -1.29,-8.37 2.43,-10.5l38.49 -23.29c1.21,-0.7 3.85,-1.3 5.16,-1.3 2.7,0 5.21,1.54 6.64,4.05l24.13 39.77 1.27 17.32c2.13,3.72 -7.43,9.2 -11.16,11.33l-23.49 19.68c-1.21,0.69 -2.53,1.02 -3.84,1.02z"/>
+  <path fill="#77B255" fill-rule="nonzero" d="M7200.09 7597.67c-4.29,0 -7.76,-3.47 -7.76,-7.76l0 -46.59c0,-4.29 3.47,-7.76 7.76,-7.76l77.65 0c14.36,0 12.03,-13.83 12.03,-13.83 0,0 2.54,4.36 2.91,5.06 2.54,4.76 4.22,12.05 0.27,19.45l-23.99 47.53c-1.12,2.24 -3.81,3.9 -6.75,3.9l-62.12 0z"/>
+  <path fill="#77B255" fill-rule="nonzero" d="M7192.33 7620.97c-2.02,0 -4.01,-0.79 -5.49,-2.28l-46.58 -46.58c-3.04,-3.04 -3.04,-7.95 0,-10.98l46.58 -46.59c1.48,-1.48 3.47,-2.27 5.49,-2.27 1,0 2.01,0.18 2.97,0.59 2.91,1.19 4.79,4.03 4.79,7.17l0 93.17c0,3.14 -1.88,5.98 -4.79,7.18 -0.96,0.4 -1.97,0.59 -2.97,0.59z"/>
+  <path fill="#3E721D" fill-rule="nonzero" d="M7181.4 7374.84c1.23,2.4 1.17,5.37 -0.41,7.79l-33.33 53.89c-2.35,3.59 -6.88,4.96 -10.46,2.6l-38.24 -23.71c-1.17,-0.77 -2.9,-2.85 -3.49,-4.01 -1.23,-2.4 -1,-5.34 0.58,-7.76l24.48 -39.55 14.86 -9c2.35,-3.6 11.56,2.45 15.16,4.8l28.19 11.99c1.18,0.77 2.07,1.81 2.66,2.96z"/>
+  <path fill="#77B255" fill-rule="nonzero" d="M7226.84 7412.7c1.95,3.82 0.44,8.49 -3.4,10.45l-41.5 21.15c-3.82,1.93 -8.5,0.42 -10.44,-3.4l-35.26 -69.18c-6.52,-12.8 -17.78,-4.45 -17.78,-4.45 0,0 2.73,-4.23 3.18,-4.88 3.1,-4.42 8.82,-9.23 17.21,-9.06l53.24 -0.22c2.52,0 5.2,1.62 6.55,4.24l28.2 55.35z"/>
+  <path fill="#77B255" fill-rule="nonzero" d="M7251.11 7409.04c0.92,1.79 1.12,3.92 0.47,5.92l-20.36 62.66c-1.32,4.08 -5.7,6.31 -9.77,4.98l-62.66 -20.35c-2,-0.65 -3.6,-2.06 -4.52,-3.86 -0.46,-0.88 -0.74,-1.87 -0.83,-2.91 -0.25,-3.14 1.43,-6.11 4.22,-7.53l83.01 -42.3c2.81,-1.43 6.17,-1.04 8.58,1.01 0.78,0.67 1.41,1.49 1.86,2.38z"/>
+  <path fill="#3E721D" fill-rule="nonzero" d="M7047.73 7539.77c1.4,-2.31 3.96,-3.81 6.84,-3.72l63.37 0.03c4.28,0.13 7.82,3.26 7.72,7.55l-0.11 44.99c-0.04,1.4 -0.9,3.98 -1.58,5.08 -1.4,2.31 -4.02,3.66 -6.91,3.58l-46.51 -0.06 -15.48 -7.91c-4.28,-0.13 -3.97,-11.14 -3.87,-15.42l-4.6 -30.31c0.03,-1.39 0.44,-2.69 1.13,-3.81z"/>
+  <path fill="#77B255" fill-rule="nonzero" d="M7056.08 7481.23c2.23,-3.67 7,-4.83 10.67,-2.6l39.79 24.21c3.67,2.23 4.84,7.01 2.6,10.67l-40.35 66.33c-7.46,12.27 5.56,17.47 5.56,17.47 0,0 -5.04,-0.1 -5.83,-0.15 -5.41,-0.3 -12.5,-2.64 -16.77,-9.87l-28.13 -45.19c-1.34,-2.15 -1.36,-5.3 0.17,-7.81l32.29 -53.06z"/>
+  <path fill="#77B255" fill-rule="nonzero" d="M7040.21 7462.5c1.06,-1.75 2.75,-3.02 4.8,-3.53l64.01 -15.58c4.16,-1.01 8.36,1.53 9.38,5.71l15.58 64.01c0.5,2.05 0.14,4.15 -0.91,5.88 -0.52,0.84 -1.21,1.61 -2.05,2.23 -2.53,1.85 -5.93,1.99 -8.61,0.36l-79.6 -48.42c-2.68,-1.64 -4.12,-4.73 -3.64,-7.83 0.16,-1.03 0.52,-1.98 1.04,-2.83z"/>
+  <text x="5561.31" y="7917.88"  fill="#323E26" font-weight="bold" font-size="308.42px" font-family="Liberation Sans">ФОРМИ ДІЯЛЬНОСТІ</text>
+  <path fill="#A3D46A" fill-rule="nonzero" d="M4973.37 4199.65c0,-29.76 24.13,-53.88 53.89,-53.88l3313.84 0c29.75,0 53.88,24.12 53.88,53.88l0 2559.47c0,29.76 -24.13,53.88 -53.88,53.88l-3313.84 0c-29.76,0 -53.89,-24.12 -53.89,-53.88l0 -2559.47z"/>
+  <text x="6182.98" y="4544.47"  fill="#333E26" font-weight="bold" font-size="240.95px" font-family="Liberation Sans">Послуги</text>
+  <path fill="#333E26" stroke="#333E26" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M5209.51 4780.61c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="5334.81" y="4843.26"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">Послуги, роботи</text>
+  <path fill="#333E26" stroke="#333E26" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M5209.51 5021.57c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.64 15.1,-33.74 33.73,-33.74 18.63,0 33.73,15.1 33.73,33.74z"/>
+  <text x="5334.81" y="5084.21"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">Сервіси</text>
+  <path fill="#333E26" stroke="#333E26" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M5209.51 5262.52c0,18.64 -15.1,33.74 -33.73,33.74 -18.63,0 -33.73,-15.1 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="5334.81" y="5325.17"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">Консультації</text>
+  <path fill="#333E26" stroke="#333E26" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M5209.51 5503.48c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="5334.81" y="5566.13"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">Тренінги, перепідготовка,</text>
+  <text x="5334.81" y="5807.09"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">атестація</text>
+  <path fill="#333E26" stroke="#333E26" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M5209.51 5985.4c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="5334.81" y="6048.05"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">Патентно-ліцензійна робота</text>
+  <text x="5334.81" y="6289"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">(</text>
+  <text x="5893.83" y="6529.96"  fill="#333E26" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">)</text>
+  <text x="5402.28" y="6289"  fill="#333E26" font-style="italic" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">Академія інтелектуального</text>
+  <text x="5334.81" y="6529.96"  fill="#333E26" font-style="italic" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">права</text>
+  <path fill="#A2D468" fill-rule="nonzero" d="M425.27 4400.82c0,-29.79 24.14,-53.94 53.93,-53.94l2993.31 0c29.79,0 53.94,24.15 53.94,53.94l0 2427.01c0,29.79 -24.15,53.93 -53.94,53.93l-2993.31 0c-29.79,0 -53.93,-24.14 -53.93,-53.93l0 -2427.01z"/>
+  <text x="1233.71" y="4636.03"  fill="#323D25" font-weight="bold" font-size="250.59px" font-family="Liberation Sans">Інноваційна</text>
+  <text x="1315.63" y="4925.18"  fill="#323D25" font-weight="bold" font-size="250.59px" font-family="Liberation Sans">діяльність</text>
+  <path fill="#323D25" stroke="#323D25" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M674.68 5151.68c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="809.62" y="5223.97"  fill="#323D25" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Грантові проекти</text>
+  <path fill="#323D25" stroke="#323D25" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M674.68 5402.28c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="809.62" y="5474.57"  fill="#323D25" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Інвестиційні конкурси і</text>
+  <text x="809.62" y="5725.16"  fill="#323D25" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">проекти</text>
+  <path fill="#323D25" stroke="#323D25" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M674.68 5903.47c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="809.62" y="5975.76"  fill="#323D25" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Інноваційні проекти</text>
+  <path fill="#323D25" stroke="#323D25" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M674.68 6154.07c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="809.62" y="6226.36"  fill="#323D25" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Акселерація,</text>
+  <text x="809.62" y="6476.95"  fill="#323D25" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">менторство, коучинг</text>
+  <path fill="#323D25" stroke="#323D25" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M674.68 6655.26c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="809.62" y="6727.55"  fill="#323D25" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Коворкингові простори</text>
+  <path fill="#A5D36F" fill-rule="nonzero" d="M414.45 7033.42c0,-29.74 24.11,-53.86 53.86,-53.86l3554.84 0c29.75,0 53.86,24.12 53.86,53.86l0 2154.45c0,29.75 -24.11,53.86 -53.86,53.86l-3554.84 0c-29.75,0 -53.86,-24.11 -53.86,-53.86l0 -2154.45z"/>
+  <text x="1204.79" y="7527.53"  fill="#333E27" font-weight="bold" font-size="250.59px" font-family="Liberation Sans">Підприємництво</text>
+  <path fill="#333E27" stroke="#333E27" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M660.23 7754.03c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="795.16" y="7826.32"  fill="#333E27" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Науковоємне виробництво</text>
+  <path fill="#333E27" stroke="#333E27" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M660.23 8004.63c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="795.16" y="8076.91"  fill="#333E27" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Розвиток та підтримка малого</text>
+  <text x="795.16" y="8327.51"  fill="#333E27" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">інноваційного підприємництва</text>
+  <path fill="#333E27" stroke="#333E27" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M660.23 8505.82c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="795.16" y="8578.11"  fill="#333E27" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Розвиток і підтримка НАУ як</text>
+  <text x="795.16" y="8828.7"  fill="#333E27" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Цифрового Університету</text>
+  <path fill="#EBD95F" fill-rule="nonzero" d="M15623.86 9161.22c0,-252.84 204.97,-457.82 457.82,-457.82l1965.94 0c252.84,0 457.82,204.98 457.82,457.82 0,252.85 -204.98,457.82 -457.82,457.82l-1965.94 0c-252.85,0 -457.82,-204.97 -457.82,-457.82l0 0z"/>
+  <path fill="#8899A6" fill-rule="nonzero" d="M16943.06 9115.28c-4.65,-2.94 -7.73,-8.13 -7.73,-14.03l0 -257.29c0,-9.16 7.44,-16.6 16.6,-16.6 9.16,0 16.6,7.44 16.6,16.6l0 257.29c0,8.32 -6.13,15.22 -14.12,16.42 -3.94,-0.35 -7.74,-1.15 -11.35,-2.39z"/>
+  <path fill="#AAB8C2" fill-rule="nonzero" d="M16951.93 8827.36c-9.17,0 -16.6,7.43 -16.6,16.6l0 257.29c0,2.29 1.86,4.15 4.15,4.15 2.29,0 4.15,-1.86 4.15,-4.15l0 -245.55c0,-6.48 5.26,-11.74 11.74,-11.74l13.16 0c0,-9.17 -7.43,-16.6 -16.6,-16.6z"/>
+  <path fill="#8899A6" fill-rule="nonzero" d="M16943.06 9115.28c-4.65,-2.94 -7.73,-8.13 -7.73,-14.03l0 -257.29c0,-9.16 7.44,-16.6 16.6,-16.6 9.16,0 16.6,7.44 16.6,16.6l0 257.29c0,8.32 -6.13,15.22 -14.12,16.42 -3.94,-0.35 -7.74,-1.15 -11.35,-2.39z"/>
+  <path fill="#AAB8C2" fill-rule="nonzero" d="M16951.93 8827.36c-9.17,0 -16.6,7.43 -16.6,16.6l0 257.29c0,2.29 1.86,4.15 4.15,4.15 2.29,0 4.15,-1.86 4.15,-4.15l0 -245.55c0,-6.48 5.26,-11.74 11.74,-11.74l13.16 0c0,-9.17 -7.43,-16.6 -16.6,-16.6z"/>
+  <path fill="#292F33" fill-rule="nonzero" d="M17179.31 8844.64c-13.82,-5.96 -28.52,-8.93 -44.78,-9.19l-11.41 3.15 -38.39 5.36 -8.3 -1.06c-1.97,0.43 -3.95,0.83 -5.9,1.24 -18,3.9 -35.11,7.43 -52.2,8.15l-8.3 8.27 -49.8 -8.3 0 157.7 49.8 0 8.3 16.6 0.64 0c18.62,-0.8 37.11,-4.62 55.04,-8.49 0.82,-0.18 1.61,-0.34 2.42,-0.51l5.35 -5.35 45.14 -5.89 7.61 3.42c13.93,0.27 26.49,2.77 38.2,7.84 2.57,1.1 5.52,0.84 7.84,-0.68 2.35,-1.55 3.76,-4.15 3.76,-6.94l0 -157.7c0,-3.31 -1.98,-6.3 -5.02,-7.62z"/>
+  <path fill="#E1E8ED" fill-rule="nonzero" d="M17018.33 8852.29c-1.98,0.08 -3.97,0.29 -5.95,0.29 -14.92,0 -28.18,-2.6 -40.56,-7.94 -2.56,-1.11 -5.52,-0.85 -7.84,0.69 -2.35,1.53 -3.75,4.14 -3.75,6.93l0 49.8c0,0 27.33,8.3 58.1,8.3l0 -58.07z"/>
+  <path fill="#E1E8ED" fill-rule="nonzero" d="M17076.43 8902.06c0,0 -31.13,8.3 -58.1,8.3l0 58.1c24.9,0 58.1,-8.3 58.1,-8.3l0 -58.1z"/>
+  <path fill="#E1E8ED" fill-rule="nonzero" d="M17134.53 8893.76l0 -58.31c-0.8,-0.02 -1.55,-0.11 -2.35,-0.11 -18.83,0 -37.53,3.67 -55.75,7.56l0 59.16c0,0 17.98,-8.3 58.1,-8.3z"/>
+  <path fill="#E1E8ED" fill-rule="nonzero" d="M16965.24 9017.58c12.45,5.37 25.65,8.24 40.01,8.98l13.08 0 0 -58.1c-34.58,0 -58.1,-8.3 -58.1,-8.3l0 49.8c0,3.31 1.97,6.3 5.01,7.62z"/>
+  <path fill="#E1E8ED" fill-rule="nonzero" d="M17076.43 8960.16l0 57.4c19.19,-4.14 37.44,-7.93 55.75,-7.93 0.8,0 1.55,0.09 2.35,0.11l0 -57.88c-37.35,0 -58.1,8.3 -58.1,8.3z"/>
+  <path fill="#E1E8ED" fill-rule="nonzero" d="M17134.53 8951.86c22.21,0 40,4.64 49.79,7.92l0 -58.48c-9.52,-3.16 -26.82,-7.54 -49.79,-7.54l0 58.1z"/>
+  <text x="16009.25" y="9416.64"  fill="#454122" font-weight="bold" font-size="318.06px" font-family="Liberation Sans">УПРАВЛІННЯ</text>
+  <path fill="#EFD86B" fill-rule="nonzero" d="M15881.81 7571.43c0,-29.57 23.97,-53.54 53.55,-53.54l2248.94 0c29.57,0 53.54,23.97 53.54,53.54l0 615.79c0,29.57 -23.97,53.54 -53.54,53.54l-2248.94 0c-29.58,0 -53.55,-23.97 -53.55,-53.54l0 -615.79z"/>
+  <text x="16139.37" y="7826.32"  fill="#494223" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Виконавчий орган</text>
+  <text x="16515.26" y="8076.91"  fill="#494223" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">(директор)</text>
+  <path fill="#EFD869" fill-rule="nonzero" d="M19353.95 7485.04c0,-29.76 24.13,-53.89 53.89,-53.89l2802.59 0c29.76,0 53.89,24.13 53.89,53.89l0 1212.66c0,29.77 -24.13,53.9 -53.89,53.9l-2802.59 0c-29.76,0 -53.89,-24.13 -53.89,-53.9l0 -1212.66z"/>
+  <text x="20009.15" y="7758.85"  fill="#494223" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">Загальні збори</text>
+  <text x="19691.09" y="8028.72"  fill="#494223" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">учасників НП (та/або</text>
+  <text x="19532.06" y="8298.59"  fill="#494223" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">наглядова рада у разі її</text>
+  <text x="20216.38" y="8568.47"  fill="#494223" font-weight="normal" font-size="231.31px" font-family="Liberation Sans">утворення)</text>
+  <path fill="#F0D96C" fill-rule="nonzero" d="M19390.16 9190.67c0,-29.57 23.97,-53.54 53.54,-53.54l2730.86 0c29.58,0 53.55,23.97 53.55,53.54l0 615.79c0,29.57 -23.97,53.54 -53.55,53.54l-2730.86 0c-29.57,0 -53.54,-23.97 -53.54,-53.54l0 -615.79z"/>
+  <text x="19517.6" y="9445.55"  fill="#4A4323" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Інноваційно-інвестиційна</text>
+  <text x="20201.92" y="9696.15"  fill="#4A4323" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">комісія НАУ</text>
+  <path fill="#F0D96A" fill-rule="nonzero" d="M19456.02 10414.74c0,-29.57 23.97,-53.55 53.55,-53.55l1847.34 0c29.57,0 53.55,23.98 53.55,53.55l0 615.78c0,29.58 -23.98,53.55 -53.55,53.55l-1847.34 0c-29.58,0 -53.55,-23.97 -53.55,-53.55l0 -615.78z"/>
+  <text x="19623.62" y="10669.62"  fill="#494323" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Проектний офіс</text>
+  <text x="20206.74" y="10920.22"  fill="#494323" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">НАУ</text>
+  <path fill="#EFD86B" fill-rule="nonzero" d="M17229.04 10443.66c0,-29.58 23.97,-53.55 53.54,-53.55l1231.56 0c29.57,0 53.55,23.97 53.55,53.55l0 615.78c0,29.57 -23.98,53.54 -53.55,53.54l-1231.56 0c-29.57,0 -53.54,-23.97 -53.54,-53.54l0 -615.78z"/>
+  <text x="17392.35" y="10698.54"  fill="#494223" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Керівники</text>
+  <text x="17469.46" y="10949.13"  fill="#494223" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">проектів</text>
+  <path fill="#EFD765" fill-rule="nonzero" d="M15358.92 10308.84c0,-29.64 24.03,-53.67 53.67,-53.67l1636.69 0c29.63,0 53.66,24.03 53.66,53.67l0 885.42c0,29.64 -24.03,53.66 -53.66,53.66l-1636.69 0c-29.64,0 -53.67,-24.02 -53.67,-53.66l0 -885.42z"/>
+  <text x="15483.96" y="10698.54"  fill="#484122" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Фонд розвитку</text>
+  <text x="16004.43" y="10949.13"  fill="#484122" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">НАУ</text>
+  <path fill="#EFA670" fill-rule="nonzero" d="M11776.22 4997.47c0,-236.88 192.03,-428.91 428.91,-428.91l2037.3 0c236.87,0 428.9,192.03 428.9,428.91 0,236.88 -192.03,428.91 -428.9,428.91l-2037.3 0c-236.88,0 -428.91,-192.03 -428.91,-428.91l0 0z"/>
+  <path fill="#FFAC33" fill-rule="nonzero" d="M13295.88 4938.62c-3.14,0 -6.26,-0.97 -8.94,-2.89l-63.16 -45.29 -63.16 45.29c-5.38,3.86 -12.6,3.86 -17.95,-0.06 -5.35,-3.87 -7.6,-10.75 -5.6,-17.03l23.56 -76.03 -62.6 -44.1c-5.31,-3.93 -7.53,-10.81 -5.5,-17.11 2.05,-6.27 7.89,-10.54 14.49,-10.58l77.52 -0.12 24.68 -74.14c2.08,-6.28 7.95,-10.5 14.56,-10.5 6.61,0 12.47,4.22 14.56,10.5l24.26 74.14 77.92 0.12c6.62,0.04 12.46,4.31 14.5,10.58 2.04,6.3 -0.17,13.18 -5.5,17.11l-62.59 44.1 23.55 76.03c2.02,6.28 -0.25,13.16 -5.59,17.03 -2.69,1.98 -5.85,2.95 -9.01,2.95z"/>
+  <text x="12390.06" y="5238.43"  fill="#4A3424" font-weight="bold" font-size="308.42px" font-family="Liberation Sans">МЕТА, ЦІЛІ</text>
+  <path fill="#F0A879" fill-rule="nonzero" d="M8993.16 468.39c0,-29.79 24.14,-53.94 53.93,-53.94l4449.85 0c29.79,0 53.94,24.15 53.94,53.94l0 2696.87c0,29.79 -24.15,53.94 -53.94,53.94l-4449.85 0c-29.79,0 -53.93,-24.15 -53.93,-53.94l0 -2696.87z"/>
+  <text x="10009.4" y="983.11"  fill="#4C3425" font-weight="bold" font-size="250.59px" font-family="Liberation Sans">Законодавчі вимоги</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M9233.51 1209.61c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="9368.45" y="1281.9"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Розвиток науково-технічної та</text>
+  <text x="9368.45" y="1532.49"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">інноваційної </text>
+  <text x="10698.54" y="1532.49"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">діяльності</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M9233.51 1710.8c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.74,-15.11 -33.74,-33.74 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="9368.45" y="1783.09"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Ефективне та </text>
+  <text x="10852.75" y="1783.09"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">раціональне викори-</text>
+  <text x="9368.45" y="2033.69"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">стання наявного наукового потенціалу,</text>
+  <text x="9368.45" y="2284.28"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">матеріально-технічної бази</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M9233.51 2462.59c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.74,-15.11 -33.74,-33.74 0,-18.63 15.11,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="9368.45" y="2534.88"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Комерціалізація та впровадження</text>
+  <text x="9368.45" y="2785.48"  fill="#4C3425" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">результатів наукових досліджень</text>
+  <path fill="#F0A97B" fill-rule="nonzero" d="M13902.8 583.95c0,-29.74 24.11,-53.84 53.83,-53.84l3257.06 0c29.73,0 53.84,24.1 53.84,53.84l0 2880.2c0,29.73 -24.11,53.84 -53.84,53.84l-3257.06 0c-29.72,0 -53.83,-24.11 -53.83,-53.84l0 -2880.2z"/>
+  <text x="14322.54" y="954.19"  fill="#4C3425" font-weight="bold" font-size="240.95px" font-family="Liberation Sans">Конкурентоздатність</text>
+  <text x="15035.78" y="1233.71"  fill="#4C3425" font-weight="bold" font-size="240.95px" font-family="Liberation Sans">продукту</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14144.24 1469.84c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.62 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.11 33.74,33.73z"/>
+  <text x="14269.53" y="1532.49"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">унікальність</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14144.24 1710.8c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="14269.53" y="1773.45"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">затребуваність на ринку</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14144.24 1951.76c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="14269.53" y="2014.41"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">висока продуктивність</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14144.24 2192.72c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="14269.53" y="2255.37"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">висока ціна/якість</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14144.24 2433.68c0,18.63 -15.11,33.73 -33.74,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.74 33.73,-33.74 18.63,0 33.74,15.11 33.74,33.74z"/>
+  <text x="14269.53" y="2496.33"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">екологічність,</text>
+  <text x="14269.53" y="2737.28"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">енергоефективність</text>
+  <path fill="#4C3425" stroke="#4C3425" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M14144.24 2915.59c0,18.63 -15.11,33.74 -33.74,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.74,15.1 33.74,33.73z"/>
+  <text x="14269.53" y="2978.24"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">вихід на виробництво і</text>
+  <text x="14269.53" y="3219.2"  fill="#4C3425" font-weight="normal" font-size="202.4px" font-family="Liberation Sans">продаж</text>
+  <path fill="#F2A979" fill-rule="nonzero" d="M19218.81 1490.05c0,-29.79 24.15,-53.94 53.94,-53.94l2966.75 0c29.78,0 53.94,24.15 53.94,53.94l0 2966.74c0,29.79 -24.16,53.94 -53.94,53.94l-2966.75 0c-29.79,0 -53.94,-24.15 -53.94,-53.94l0 -2966.74z"/>
+  <text x="19676.63" y="1908.39"  fill="#4D3424" font-weight="bold" font-size="250.59px" font-family="Liberation Sans">Утворення нових</text>
+  <text x="20134.45" y="2197.54"  fill="#4D3424" font-weight="bold" font-size="250.59px" font-family="Liberation Sans">цінностей</text>
+  <path fill="#4D3424" stroke="#4D3424" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M19459.77 2424.04c0,18.63 -15.1,33.73 -33.73,33.73 -18.64,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.1,-33.74 33.74,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="19585.07" y="2486.69"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">Управління стратегічни-</text>
+  <text x="19585.07" y="2727.65"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">ми змінами</text>
+  <path fill="#4D3424" stroke="#4D3424" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M19459.77 2905.95c0,18.64 -15.1,33.74 -33.73,33.74 -18.64,0 -33.74,-15.1 -33.74,-33.74 0,-18.63 15.1,-33.73 33.74,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="19585.07" y="2968.6"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">Підняття іміджа і статусу</text>
+  <text x="19585.07" y="3209.56"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">бренда НАУ</text>
+  <path fill="#4D3424" stroke="#4D3424" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M19459.77 3387.87c0,18.63 -15.1,33.73 -33.73,33.73 -18.64,0 -33.74,-15.1 -33.74,-33.73 0,-18.63 15.1,-33.74 33.74,-33.74 18.63,0 33.73,15.11 33.73,33.74z"/>
+  <text x="19585.07" y="3450.52"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">Контрольваність ризиків</text>
+  <text x="19585.07" y="3691.48"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">інноваторства</text>
+  <path fill="#4D3424" stroke="#4D3424" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M19459.77 3869.78c0,18.64 -15.1,33.74 -33.73,33.74 -18.64,0 -33.74,-15.1 -33.74,-33.74 0,-18.62 15.1,-33.73 33.74,-33.73 18.63,0 33.73,15.11 33.73,33.73z"/>
+  <text x="19585.07" y="3932.44"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">Перспективи праце-</text>
+  <text x="19585.07" y="4173.39"  fill="#4D3424" font-weight="normal" font-size="212.03px" font-family="Liberation Sans">влаштування</text>
+  <path fill="#EFA474" fill-rule="nonzero" d="M18389.92 4593.55c0,-29.77 24.12,-53.9 53.89,-53.9l3853.56 0c29.77,0 53.9,24.13 53.9,53.9l0 2533.1c0,29.77 -24.13,53.9 -53.9,53.9l-3853.56 0c-29.77,0 -53.89,-24.13 -53.89,-53.9l0 -2533.1z"/>
+  <text x="18746.53" y="5002.29"  fill="#4B3324" font-weight="bold" font-size="260.23px" font-family="Liberation Sans">Підтримка інноваційного</text>
+  <text x="19565.79" y="5301.08"  fill="#4B3324" font-weight="bold" font-size="260.23px" font-family="Liberation Sans">середовища</text>
+  <path fill="#4B3324" stroke="#4B3324" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M18630.87 5537.22c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.64 15.1,-33.74 33.73,-33.74 18.63,0 33.73,15.1 33.73,33.74z"/>
+  <text x="18765.81" y="5609.5"  fill="#4B3324" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Привабливість, відкритість і</text>
+  <text x="18765.81" y="5860.1"  fill="#4B3324" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">прозорість умов співпраці</text>
+  <path fill="#4B3324" stroke="#4B3324" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M18630.87 6038.41c0,18.63 -15.1,33.73 -33.73,33.73 -18.63,0 -33.73,-15.1 -33.73,-33.73 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="18765.81" y="6110.7"  fill="#4B3324" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Доступність і комфортність</text>
+  <text x="18765.81" y="6361.29"  fill="#4B3324" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">середовища</text>
+  <path fill="#4B3324" stroke="#4B3324" stroke-width="26.46" stroke-linecap="square" stroke-miterlimit="10" d="M18630.87 6539.6c0,18.63 -15.1,33.74 -33.73,33.74 -18.63,0 -33.73,-15.11 -33.73,-33.74 0,-18.63 15.1,-33.73 33.73,-33.73 18.63,0 33.73,15.1 33.73,33.73z"/>
+  <text x="18765.81" y="6611.89"  fill="#4B3324" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">Наявність корисних і доступних</text>
+  <text x="18765.81" y="6862.48"  fill="#4B3324" font-weight="normal" font-size="221.67px" font-family="Liberation Sans">сервісів і послуг</text>
+  <path fill="white" d="M16915.25 14452.66l1850.56 0c42.56,0 77.11,34.54 77.11,77.11l0 1416.83c0,42.57 -34.55,77.11 -77.11,77.11l-1850.56 0c-42.56,0 -77.1,-34.54 -77.1,-77.11l0 -1416.83c0,-42.57 34.54,-77.11 77.1,-77.11z"/>
+  <path fill="#F3F3F3" d="M16905.61 14443.02l1869.84 0c42.56,0 77.11,34.55 77.11,77.11l0 1436.11c0,42.56 -34.55,77.11 -77.11,77.11l-1869.84 0c-42.56,0 -77.1,-34.55 -77.1,-77.11l0 -1436.11c0,-42.56 34.54,-77.11 77.1,-77.11zm0 19.28l1869.84 0c31.92,0 57.83,25.91 57.83,57.83l0 1436.11c0,31.92 -25.91,57.83 -57.83,57.83l-1869.84 0c-31.92,0 -57.83,-25.91 -57.83,-57.83l0 -1436.11c0,-31.92 25.91,-57.83 57.83,-57.83z"/>
+  <g clip-path="url(#id0)">
+   <image x="16847.78" y="14461.87" width="1986.05" height="1552.2" xlink:href="data:image/png;base64,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"/>
+  </g>
+  <path fill="white" d="M20009.16 14322.55l1850.55 0c42.56,0 77.11,34.54 77.11,77.1l0 1715.62c0,42.57 -34.55,77.11 -77.11,77.11l-1850.55 0c-42.57,0 -77.11,-34.54 -77.11,-77.11l0 -1715.62c0,-42.56 34.54,-77.1 77.11,-77.1z"/>
+  <path fill="#F3F3F3" d="M19999.52 14312.91l1869.83 0c42.56,0 77.11,34.54 77.11,77.1l0 1734.9c0,42.56 -34.55,77.11 -77.11,77.11l-1869.83 0c-42.57,0 -77.11,-34.55 -77.11,-77.11l0 -1734.9c0,-42.56 34.54,-77.1 77.11,-77.1zm0 19.27l1869.83 0c31.92,0 57.83,25.91 57.83,57.83l0 1734.9c0,31.92 -25.91,57.83 -57.83,57.83l-1869.83 0c-31.93,0 -57.83,-25.91 -57.83,-57.83l0 -1734.9c0,-31.92 25.9,-57.83 57.83,-57.83z"/>
+  <g clip-path="url(#id1)">
+   <image x="19941.69" y="14332.18" width="1985.49" height="1850.56" xlink:href="data:image/png;base64,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
+6AAAAABJRU5ErkJggg=="/>
+  </g>
+ </g>
+</svg>
