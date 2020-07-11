@@ -1,0 +1,121 @@
+created: 20200710081350427
+modified: 20200710094845890
+swap: Відповіді на Питання 24.06.2020
+tags: Eng
+title: Answers for Questions 24.06.2020
+
+On 24th of June 2020, a videoconference and an open discussion regarding the project of ''Science and Art Space (NAUProstir)'' took place between the representatives of ''Technical University of Dresden (TUD), Germany'' and ''National Aviation University (NAU), Kyiv, Ukraine''. The meeting took place via means of GoogleMeet, with the participation of:
+
+* ''Olegh Bondarenko'', Prof. Dr.-Biology, head of the Project Office of NAU (NAUProf);
+* ''Olga Kyselova'', Dr,-Ing., research associate at Laboratory of Knowledge Architecture Wissensarchitektur of TUD;
+* ''Kateryna Zhurbas'' 
+* ''Niraj Kamal''
+* ''Inokentii Horobtsov''
+
+As a result of the meeting, Niraj Kamal, an aspiring student and associate at Wissensarchitektur, who is responsible for an architectural part of the project, sent a list of questions to NAUProf, which need an answer in order to start the work on the architectural documentation. 
+
+Questions, together with answers, are presented below.
+
+<<slider label:"''Question 1''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' Does "The residence of Artists and Investors" mean that there should be dormitories/rooms for them as guests which may include other residential supports such as bathrooms, lawns etc. 
+
+''A:'' No, there is no need in neither actual living spaces, nor utilities. 
+""">>
+
+<<slider label:"''Question 2''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' The wind tunnels have different heights in different places. We would like to know the different heights of the tunnel. If possible, include the bottom height from ground and top ceiling height (approx.) from ground. 
+
+''A:'' Photos and measurements are attached (fig. 1)
+
+<center>[img[Big wind tube inspection.png]]</center>
+
+<center>''Fig. 1.'' Big wind tube inspection</center>
+""">>
+
+<<slider label:"''Question 3''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' There are three tall buildings surrounding the site. According to our GIS data, its 75m high. Could you please confirm it (or tell us the number of floors * approx. floor height)? 
+
+''A:'' The measurement of heights and the photo are attached (fig. 2) 
+
+<center>[img[Heights of surrounding buildings.png]]</center>
+
+<center>''Fig. 2.'' Heights of surrounding buildings</center>
+""">>
+
+<<slider label:"''Question 4''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' The plans which you provided are a bit not clear. Can you please specify which plan corresponds to which building/part of tunnel in your pictures? 
+
+''A:'' Plans of the engine room in a separate folder (fig. 3-8). Transformers are marked on the plan. Premises for transformers have a height of two floors, but no floor covering. 
+
+<center>[img[00 Ground floor.jpg]]</center>
+
+<center>''Fig. 3.'' Ground floor</center>
+
+<center>[img[01 First floor.jpg]]</center>
+
+<center>''Fig. 4.'' First floor</center>
+
+<center>[img[02 A-A.jpg]]</center>
+
+<center>''Fig. 5.'' A-A</center>
+
+<center>[img[03 B-B.jpg]]</center>
+
+<center>''Fig. 6.'' B-B</center>
+
+<center>[img[04 C-C.jpg]]</center>
+
+<center>''Fig. 7.'' C-C</center>
+
+<center>[img[05 Foto by First floor.jpg]]</center>
+
+<center>''Fig. 8.'' Photo of the first floor</center>
+""">>
+
+<<slider label:"''Question 5''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' We were unable to locate the toilets, staircases and electric ducts in the building. Can you draw the exact locations of these in the buildings which we need to redesign? Also, if the tunnel has stairs or floors please mention its position too. 
+
+''A:'' Toilet is in the engine room on the second floor (marked on the plan), electricity is supplied from the opposite side of the building (inside it can be changed). There is no sewerage and electricity in the wind tube.
+""">>
+
+<<slider label:"''Question 6''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' How is the access to the tunnel from inside the building? Also please tell us the current use of the aerospace faculty building connecting the tunnel. Maybe, we might include some interesting activities connecting it like cafes etc. If possible, please include the pictures of the entry of the tunnel from inside, and interior pictures of the tunnel as well as the other buildings. 
+
+''A:'' The entrances to the tube are marked on the plan. It is proposed to provide a new entrance to the tube from the engine room. The building of the aerospace faculty remains unchanged.
+""">>
+
+<<slider label:"''Question 7''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' Please specify the ceiling to floor height of the machinery building. Also mention how many floors does each building have so we can calculate floor area. Also mention the current entry of each building. 
+
+''A:'' The engine room has two floors. Ground floor height from floor to ceiling is 4800, First floor height from floor to ceiling is 5550. Entrances are on the plan.
+""">>
+
+<<slider label:"''Question 8''" status:"closed" labelClass:"alert alert-secondary" src:"""
+''Q:'' Can you tell the approximate requirements of each group (if possible)? And how many groups are hosted in? Or maybe you can tell us how exactly each group works currently, which might be hosted in the building. For example, a student group might have an institute faculty who is maintaining the inventory, so we may have to make a small inventory room for the group along with their main work space. 
+
+''A:'' The space will represent the interests of the following groups: (1) administration; (2) students and representatives of the university; (3) young inventors and startups; (4) artists; (5) business, small and medium sized enterprises. 
+
+Thus, we can roughly outline the needs and nature of activities of those groups:
+
+# Administration - supervisors of the whole complex, people who will be responsible for registration of certain events, management of space congestion, possibly - excursions, etc. Therefore, they require such elements as:
+## Registry space near the main entrance into the complex, with desk(s) and power supply for basic electronic equipment. It would also be good, if it’d be possible to place registry BOTH near the entrance and WCs. 
+## Small inventory chamber, for cleaning inventory near the registry.
+# Students and university representatives - university reserves the right of priority to visit/use of the premises; open or external practical classes can be held in the complex with prior registration by teachers, etc. So a good solution would be to have: 
+## 2-3 simple classrooms where students could receive brief theoretical information and tasks, as well as where they could return after the practical part to complete their work. 
+## A small inventory area next to the auditoriums.
+## (possible) 3-4 labs for up to 7-10 people, with basic inventory for experiments (scales, microscopes, a separate closed chamber for reagents, etc.) 
+# Young inventors and startups are one of the main target groups of the project. These can be both students and external enterprising people who are at the stage of planning, designing, implementing a certain idea. For them it is necessary to provide:
+## Several (3-5) small and informal rooms of "free communication", for up to 5-7 people, provided for brainstorming and exchange of ideas (with appropriate equipment and furniture);
+## Fablab premises, or in other words technical premises with various prototyping equipment - 3D-printing, laser cutter, CNC, etc.
+# Artists - the second of the main target groups. Creative people who want to express themselves using the utilities, or via exhibition space, and communicate with other creative people:
+## Several (3-4) free, preferably bright studio spaces for drawing/modeling, etc., with simple inventory for creating compositions (e.g. still lifes) and creative process (each room for up to 5 people);
+## Several (2) free, preferably bright photo studio spaces with simple equipment for shooting (each room for up to 5-7 people);
+## Several (2) small animation rooms with appropriate simple inventory (each room for up to 4 people);
+## Exhibition space for young artists who want to share their works with the world (these could be paintings, photos, sculptures, animation pieces etc.).
+# Business, small and medium sized enterprises - the third of the main target groups. Enterprising people who have already started their economic activity and are interested in the developments of young inventors or artists, are ready to consider the proposals of others and submit their own:
+## Several (3-5) spacious rooms for formal communication (conference rooms, etc.) with appropriate presentation equipment (possibly, to make 2-3 rooms for up to 12-15 people, and 1-2 rooms for up to 25 people);
+# General usage:
+## Cafeteria or catering.
+## Lounge rooms for those wishing to relax with a comfortable and convenient environment, and possibly relax equipment (e.g., board games, consoles, etc. - in case of noisy activities it should be soundproofed).
+## A small library next to the cafeteria and lounge area, with literature for both “easy” reading and some information and/or reference sources (possibly partially electronic)
+""">>
