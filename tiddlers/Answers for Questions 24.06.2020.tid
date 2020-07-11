@@ -1,5 +1,5 @@
 created: 20200710081350427
-modified: 20200710094845890
+modified: 20200711161726662
 swap: Відповіді на Питання 24.06.2020
 tags: Eng
 title: Answers for Questions 24.06.2020
@@ -25,11 +25,7 @@ Questions, together with answers, are presented below.
 <<slider label:"''Question 2''" status:"closed" labelClass:"alert alert-secondary" src:"""
 ''Q:'' The wind tunnels have different heights in different places. We would like to know the different heights of the tunnel. If possible, include the bottom height from ground and top ceiling height (approx.) from ground. 
 
-''A:'' Photos and measurements are attached (fig. 1)
-
-<center>[img[Big wind tube inspection.png]]</center>
-
-<center>''Fig. 1.'' Big wind tube inspection</center>
+''A:'' Photos and measurements can be seen at [[Big wind tube inspection]] and [[Big wind tube sections and dimensions]].
 """>>
 
 <<slider label:"''Question 3''" status:"closed" labelClass:"alert alert-secondary" src:"""
