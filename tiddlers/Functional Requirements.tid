@@ -1,0 +1,23 @@
+created: 20200818185215462
+modified: 20200818185926371
+tags: 
+title: Functional Requirements
+
+<div class="flex-row flex-justify-content-center">
+    <div class="flex-col-2 border">
+      
+<<image-pretty img:"img/tud_vision_002.jpg" width:"200px" align:"center" caption:"One of the collaborative focal point of the University" tooltip:"demo of image-pretty macro">>
+      <<image-pretty img:"img/tud_vision_004.jpg" width:"200px" align:"center" caption:"Informal Communication">>
+      <<image-pretty img:"img/tud_vision_006.jpg" width:"200px" align:"center" caption:"Open Space For Individual work" tooltip:"demo of image-pretty macro">>
+      <<image-pretty img:"img/tud_vision_008.jpg" width:"200px" align:"center" caption:"Space for Specific Lab Equipment, FabLab" tooltip:"demo of image-pretty macro">>
+    </div>
+    <div class="flex-col-2 border">
+      <div class="flex-col" style="line-height:125%;">
+
+<<image-pretty img:"img/tud_vision_003.jpg" width:"245px" align:"center" caption:"Meeting Space For: City Community University Students">>
+<<image-pretty img:"img/tud_vision_005.jpg" width:"200px" align:"center" caption:"University-Business collaboration and Co-Operation">>
+<<image-pretty img:"img/tud_vision_007.jpg" width:"200px" align:"center" caption:"Offices and Startups, Conference Rooms">>
+<<image-pretty img:"img/tud_vision_009.jpg" width:"200px" align:"center" caption:"Location for Arts, festivals and
+Exhibitions, Place for Conferences">>
+    </div>
+</div>
