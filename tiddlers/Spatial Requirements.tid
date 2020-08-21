@@ -1,0 +1,17 @@
+content: tud
+created: 20200819172308911
+modified: 20200819181317382
+tags: 
+title: Spatial Requirements
+
+<div class="flex-row flex-justify-content-center">
+<div class="flex-col-2 no borders">
+<<image-pretty img:"img/tud_vision_010.jpg" width:"300px" align:"center" caption:"''Informal spaces'' Open parks, courtyards, cafeterias, hubs/booths">>
+<<image-pretty img:"img/tud_vision_012.jpg" width:"300px" align:"center" caption:"''Impromptu Activity Spaces'' Spaceous corridors , wide steps for meeting with large groups">>
+</div>
+<div class="flex-col-2 no borders">
+<div class="flex-col" style="line-height:125%;">
+<<image-pretty img:"img/tud_vision_011.jpg" width:"340px" align:"center" caption:"''Open meeting spaces'' Informal Meeting spaces, Steps and OATs">>
+<<image-pretty img:"img/tud_vision_013.jpg" width:"340px" align:"center" caption:"''Formal/closed meeting spaces'' Exhibition halls, Conference rooms, Formal Offices, Multi activity hall/keynote Auditoriums">>
+</div>
+</div>
